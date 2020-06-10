@@ -1,0 +1,16 @@
+{
+    "id": "5ee0b6bfb0349908b3eca58c",
+    "database": "singlet",
+    "collection": "source",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}

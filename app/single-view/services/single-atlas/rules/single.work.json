@@ -1,0 +1,22 @@
+{
+    "id": "5d585dd7d9b3e5cf71c6a52f",
+    "database": "single",
+    "collection": "work",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {
+        "properties": {
+            "_id": {
+                "bsonType": "objectId"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "id": "5d5386e5a77e21836aacaa75",
+    "name": "single-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Cluster0",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
