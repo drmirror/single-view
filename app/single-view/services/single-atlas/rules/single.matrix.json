@@ -1,7 +1,6 @@
 {
-    "id": "5ee0b6bfb0349908b3eca58c",
-    "database": "singlet",
-    "collection": "source",
+    "database": "single",
+    "collection": "work",
     "roles": [
         {
             "name": "default",
@@ -12,5 +11,11 @@
             "additional_fields": {}
         }
     ],
-    "schema": {}
+    "schema": {
+        "properties": {
+            "_id": {
+                "bsonType": "objectId"
+            }
+        }
+    }
 }

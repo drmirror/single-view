@@ -1,13 +1,13 @@
 {
-    "app_id": "single-view-iblcf",
+    "app_id": "single-demo-wrbvr",
     "config_version": 20200603,
-    "name": "single-view",
+    "name": "single-demo",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
     "security": {},
     "hosting": {
         "enabled": true,
-        "app_default_domain": "single-view-iblcf.mongodbstitch.com",
+        "app_default_domain": "single-demo-wrbvr.mongodbstitch.com",
         "default_error_path": "",
         "default_error_code": "404"
     },
